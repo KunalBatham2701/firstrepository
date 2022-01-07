@@ -1,7 +1,7 @@
 
 <h1 align='center'> <i>Hello 👋, I am Kunal Batham 🙂</i></h2> 
 
-Typing SVG by KunalBatham2701 - https://github.com/KunalBatham2701/readme-typing-svg
+<!-- Typing SVG by KunalBatham2701 - https://github.com/KunalBatham2701/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/KunalBatham2701/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=first line%20from%20mine!;LIFE;the%20third%20line%20is this.&font=Fira%20Code&center=true&width=440&height=45&color=61CC8C&vCenter=true&size=22"></a>
 </p>
