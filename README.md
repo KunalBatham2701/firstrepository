@@ -3,7 +3,7 @@
 
 <!-- Typing SVG by KunalBatham2701 - https://github.com/KunalBatham2701/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/KunalBatham2701/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Young-Hustler%20from%20INDIA!;Inexorable;Always%20learning%20new%20things.&font=Fira%20Code&center=true&width=440&height=45&color=61CC8C&vCenter=true&size=22"></a>
+  <a href="https://github.com/KunalBatham2701/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=first-line%20of%20mine!;hmm;Alwaydsf%20leardfning%20ndfdew%20thindffgs.&font=Fira%20Code&center=true&width=440&height=45&color=61CC8C&vCenter=true&size=22"></a>
 </p>
 
 - 🔭 I’m currently working on **OOPs**
