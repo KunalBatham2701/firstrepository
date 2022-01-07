@@ -1,7 +1,7 @@
 
 <h1 align='center'> <i>Hello 👋, I am Kunal Batham 🙂</i></h2> 
 
-<!-- Typing SVG by KunalBatham2701 - https://github.com/KunalBatham2701/readme-typing-svg -->
+Typing SVG by KunalBatham2701 - https://github.com/KunalBatham2701/readme-typing-svg
 <p align="center">
   <a href="https://github.com/KunalBatham2701/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=first line%20from%20mine!;LIFE;the%20third%20line%20is this.&font=Fira%20Code&center=true&width=440&height=45&color=61CC8C&vCenter=true&size=22"></a>
 </p>
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/kunal-batham-1187551b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaushal kumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kunal-batham-1187551b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kunal Batham" height="30" width="40" /></a>
 
 </p>
 
